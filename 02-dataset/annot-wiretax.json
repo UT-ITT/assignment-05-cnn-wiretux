@@ -1,0 +1,70 @@
+{
+    "like":
+    {
+        "bboxes":
+        [
+            [
+                0.25034674,
+                0.19635416,
+                0.60818307,
+                0.70364583
+            ]
+        ],
+        "labels":
+        [
+            "like"
+        ],
+        "landmarks":
+        [
+        ],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": ""
+    },
+
+    "peace":
+    {
+        "bboxes":
+        [
+            [
+                0.16435506,
+                0.1578125,
+                0.53467406,
+                0.75
+            ]
+        ],
+        "labels":
+        [
+            "peace"
+        ],
+        "landmarks":
+        [
+        ],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": ""
+    },
+
+    "rock":
+    {
+        "bboxes":
+        [
+            [
+                0.12760055,
+                0.12864583,
+                0.67683772,
+                0.83697916
+            ]
+        ],
+        "labels":
+        [
+            "rock"
+        ],
+        "landmarks":
+        [
+        ],
+        "leading_conf": 1.0,
+        "leading_hand": "left",
+        "user_id": ""
+    }
+}
