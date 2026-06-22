@@ -27,7 +27,7 @@ A **light** to **medium** amount of data augmentation can improve the base model
 ### No data augmentation:
 ![No data augmentation](test/none.png)
 ### Light data augmentation:
-![Light data augmentation](test/Testlight.png)
+![Light data augmentation](test/light.png)
 ### Medium data augmentation:
 ![Medium data augmentation](test/medium.png)
 ### High data augmentation:
