@@ -17,7 +17,7 @@ PROGRAMM_NAME = "media_control"
 FLIP_CAMERA = True
 BOX_SCALE = 0.5 # Needs to be between 0 and 1
 IMG_SIZE = 64
-COOLDOWN = 8
+COOLDOWN = 4
 
 model = load_model("gesture_recognition.keras")
 labels = ['like', 'no_gesture', 'dislike', 'stop', 'fist']
